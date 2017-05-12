@@ -4,3 +4,4 @@
 */.terraform
 */mykey*
 .idea/
+terraform.tfvars
